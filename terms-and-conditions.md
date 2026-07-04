@@ -34,7 +34,7 @@ We may update these Terms from time to time. We will post the updated version he
 
 ## Governing law
 
-These Terms are governed by the laws of [STATE — e.g., Pennsylvania], without regard to its conflict-of-laws rules.
+These Terms are governed by the laws of [Pennsylvania], without regard to its conflict-of-laws rules.
 
 ## Contact
 
