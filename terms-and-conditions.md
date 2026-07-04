@@ -10,7 +10,7 @@ The Service lets home-services businesses (such as plumbing, HVAC, and electrica
 
 ## Text messaging
 
-By contacting a business that uses the Service, you may receive service-related text messages as described in our [Privacy Policy](./privacy). Message frequency varies, and message and data rates may apply. **Reply STOP to opt out at any time; reply HELP for help.** We do not sell or share your mobile number or SMS opt-in data with third parties for marketing.
+By contacting a business that uses the Service, you may receive service-related text messages as described in our [Privacy Policy](./privacy-policy). Message frequency varies, and message and data rates may apply. **Reply STOP to opt out at any time; reply HELP for help.** We do not sell or share your mobile number or SMS opt-in data with third parties for marketing.
 
 ## Payments
 
