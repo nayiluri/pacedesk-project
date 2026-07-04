@@ -2,7 +2,7 @@
 
 **Effective date:** July 04 2026
 
-This Privacy Policy explains how Nithin Ayiluri ("we," "us," or "our") collects, uses, and shares information in connection with our software service that helps home-services businesses (such as plumbing, HVAC, and electrical contractors) communicate with their customers (the "Service"). If you have questions, contact us at [CONTACT EMAIL].
+This Privacy Policy explains how Nithin Ayiluri ("we," "us," or "our") collects, uses, and shares information in connection with our software service that helps home-services businesses (such as plumbing, HVAC, and electrical contractors) communicate with their customers (the "Service"). If you have questions, contact us at nithinayiluri@gmail.com.
 
 ## Information we collect
 
@@ -57,7 +57,7 @@ We use reasonable administrative, technical, and organizational measures to prot
 
 ## Your choices and rights
 
-You may request access to, correction of, or deletion of your personal information, and you may opt out of text messages at any time by replying STOP. To make a request, contact us at [CONTACT EMAIL]. Depending on where you live, you may have additional rights under applicable law.
+You may request access to, correction of, or deletion of your personal information, and you may opt out of text messages at any time by replying STOP. To make a request, contact us at nithinayiluri@gmail.com. Depending on where you live, you may have additional rights under applicable law.
 
 ## Children's privacy
 
